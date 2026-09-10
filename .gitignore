@@ -4,3 +4,6 @@ instance/
 # hoffest_planung ist jetzt ein eigenstaendiges Repo:
 # https://github.com/faolan-exe/hoffest_planung
 /hoffest_planung/
+
+# Jetzt eigenstaendiges Repo: https://github.com/faolan-exe/ticket-verkauf
+/ticket-verkauf/
